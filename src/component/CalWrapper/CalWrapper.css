@@ -1,0 +1,22 @@
+.main-cal{
+    width: 500px;
+    height: 105px;
+    padding-top: 5px;
+    background-color: black;
+}
+.btn-Name{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.btn-Opr{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+ 
+}
